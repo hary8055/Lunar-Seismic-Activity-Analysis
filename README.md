@@ -13,15 +13,15 @@ This project:
 3. Combines and analyzes these features for scientific insights.
 
 **Technical Terms**
-ILSA: Instrument for Lunar Seismic Activity.
-Correlated Events: Signals with known origins (e.g., rover mobility, payload operations).
-Uncorrelated Events: Signals from unknown sources, potentially natural seismic activity.
-PSD (Power Spectral Density): Indicates the power distribution of a signal in the frequency domain.
+1. ILSA: Instrument for Lunar Seismic Activity.
+2. Correlated Events: Signals with known origins (e.g., rover mobility, payload operations).
+3. Uncorrelated Events: Signals from unknown sources, potentially natural seismic activity.
+4. PSD (Power Spectral Density): Indicates the power distribution of a signal in the frequency domain.
 
 **Sources**
-Chandrayaan-3 Payload Documentation:
-ILSA Data Users Manual, ISRO.
-Calibration Documents, ISRO.
+1. Chandrayaan-3 Payload Documentation:
+2. ILSA Data Users Manual, ISRO.
+3. Calibration Documents, ISRO.
 
 
 
